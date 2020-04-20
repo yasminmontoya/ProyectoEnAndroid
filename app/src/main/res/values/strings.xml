@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sastreria Casa Daniel</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="cedula">Cédula</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Teléfono</string>
+    <string name="direccion">Dirección</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="tipop">Seleccione el Tipo de Prenda</string>
+    <string name="fechai">Fecha de Ingreso</string>
+    <string name="fechas">Fecha de Entrega</string>
+    <string name="color">Color</string>
+    <string name="marca">Marca</string>
+    <string name="agregar">Agregar</string>
+    <string name="agregarp">Agregar Prenda</string>
+    <string name="verprendas">Ver Prendas</string>
+    <string name="codigo">Código</string>
+    <string name="title_activity_main5">Sastreria Casa Daniel</string>
+    <string name="fecha">Fecha</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="otro">Otro</string>
+</resources>
